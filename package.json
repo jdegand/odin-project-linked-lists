@@ -1,0 +1,15 @@
+{
+  "name": "odin-project-linked-list",
+  "version": "1.0.0",
+  "description": "Javascript Linked List",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
